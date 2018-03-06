@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/life/2018/01/21/test.html</loc>
+<lastmod>2018-01-21T22:21:23+08:00</lastmod>
+</url>
+<url>
+<loc>/2018/01/21/amos-love-you.html</loc>
+<lastmod>2018-01-21T11:32:25+08:00</lastmod>
+</url>
+<url>
+<loc>/testpage/2017/09/10/hello-world.html</loc>
+<lastmod>2017-09-10T13:52:59+08:00</lastmod>
+</url>
+<url>
+<loc>/english/2017/09/10/welcome-to-jekyll.html</loc>
+<lastmod>2017-09-10T11:18:45+08:00</lastmod>
+</url>
+<url>
+<loc>/404.html</loc>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/arielblog/index.html</loc>
+<lastmod>2017-09-12T21:46:20+08:00</lastmod>
+</url>
+</urlset>
