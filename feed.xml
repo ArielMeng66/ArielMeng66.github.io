@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Mar 2018 22:34:50 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Mar 2018 22:34:50 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 10:34:31 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 10:34:31 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -108,22 +108,99 @@
 艇仔粥击败了及第粥，成为我最喜欢喝的粥&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Jan 2018 22:21:23 +0800</pubDate>
-        <link>/life/2018/01/21/test.html</link>
-        <guid isPermaLink="true">/life/2018/01/21/test.html</guid>
+        <link>/page/life/2018/01/21/test.html</link>
+        <guid isPermaLink="true">/page/life/2018/01/21/test.html</guid>
         
+        
+        <category>page</category>
         
         <category>life</category>
         
       </item>
     
       <item>
-        <title>Amos love you</title>
-        <description>
+        <title>my voice</title>
+        <description>&lt;div class=&quot;videobox&quot;&gt;
+	&lt;embed width=&quot;880&quot; height=&quot;495&quot; src=&quot;http://www.aipai.com/c38/OjsnICEnICRqJWQvKA/playerOut.swf&quot; quality=&quot;high&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;
+&lt;/div&gt;
+
 </description>
-        <pubDate>Sun, 21 Jan 2018 11:32:25 +0800</pubDate>
-        <link>/2018/01/21/amos-love-you.html</link>
-        <guid isPermaLink="true">/2018/01/21/amos-love-you.html</guid>
+        <pubDate>Mon, 11 Sep 2017 13:52:59 +0800</pubDate>
+        <link>/voice/myvoice/2017/09/11/hello-world.html</link>
+        <guid isPermaLink="true">/voice/myvoice/2017/09/11/hello-world.html</guid>
         
+        
+        <category>voice</category>
+        
+        <category>myvoice</category>
+        
+      </item>
+    
+      <item>
+        <title>hello world5</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;p&gt;This is my first page&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 13:52:59 +0800</pubDate>
+        <link>/page/testpage/2017/09/10/hello-world5.html</link>
+        <guid isPermaLink="true">/page/testpage/2017/09/10/hello-world5.html</guid>
+        
+        
+        <category>page</category>
+        
+        <category>testpage</category>
+        
+      </item>
+    
+      <item>
+        <title>hello world4</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;p&gt;This is my first page&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 13:52:59 +0800</pubDate>
+        <link>/page/testpage/2017/09/10/hello-world4.html</link>
+        <guid isPermaLink="true">/page/testpage/2017/09/10/hello-world4.html</guid>
+        
+        
+        <category>page</category>
+        
+        <category>testpage</category>
+        
+      </item>
+    
+      <item>
+        <title>hello world3</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;p&gt;This is my first page&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 13:52:59 +0800</pubDate>
+        <link>/page/testpage/2017/09/10/hello-world3.html</link>
+        <guid isPermaLink="true">/page/testpage/2017/09/10/hello-world3.html</guid>
+        
+        
+        <category>page</category>
+        
+        <category>testpage</category>
+        
+      </item>
+    
+      <item>
+        <title>hello world2</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;p&gt;This is my first page&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 13:52:59 +0800</pubDate>
+        <link>/page/testpage/2017/09/10/hello-world2.html</link>
+        <guid isPermaLink="true">/page/testpage/2017/09/10/hello-world2.html</guid>
+        
+        
+        <category>page</category>
+        
+        <category>testpage</category>
         
       </item>
     
@@ -134,9 +211,11 @@
 &lt;p&gt;This is my first page&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 13:52:59 +0800</pubDate>
-        <link>/testpage/2017/09/10/hello-world.html</link>
-        <guid isPermaLink="true">/testpage/2017/09/10/hello-world.html</guid>
+        <link>/page/testpage/2017/09/10/hello-world.html</link>
+        <guid isPermaLink="true">/page/testpage/2017/09/10/hello-world.html</guid>
         
+        
+        <category>page</category>
         
         <category>testpage</category>
         
@@ -162,9 +241,11 @@ print_hi('Tom')
 
 </description>
         <pubDate>Sun, 10 Sep 2017 11:18:45 +0800</pubDate>
-        <link>/english/2017/09/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/english/2017/09/10/welcome-to-jekyll.html</guid>
+        <link>/page/english/2017/09/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/page/english/2017/09/10/welcome-to-jekyll.html</guid>
         
+        
+        <category>page</category>
         
         <category>English</category>
         
