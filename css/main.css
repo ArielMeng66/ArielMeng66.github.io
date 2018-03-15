@@ -237,7 +237,8 @@ a:hover {
 #top-head .banner {
   height: 0;
   padding-top: 10.10638%;
-  background: url(../images/banner.jpg) center no-repeat/cover;
+  background: url(../images/banner.jpg) center no-repeat;
+  background-size: cover;
 }
 #top-head nav {
   height: 45px;
@@ -394,6 +395,7 @@ a:hover {
 #aside-part .block .block-list li {
   margin-bottom: 10px;
   position: relative;
+  padding-left: 1em;
 }
 #aside-part .block .block-list li:before {
   content: '';
@@ -409,7 +411,6 @@ a:hover {
 #aside-part .block .block-list li a {
   color: #767676;
   display: block;
-  text-indent: 1em;
 }
 #aside-part .block .block-list li a:hover {
   color: #333;
@@ -452,7 +453,8 @@ a:hover {
   #top-head .banner {
     height: 0;
     padding-top: 12.23404%;
-    background: url(../images/banner.jpg) center no-repeat/cover;
+    background: url(../images/banner.jpg) center no-repeat;
+    background-size: cover;
   }
   #top-head ul li a {
     padding: 0 20px;
@@ -499,7 +501,8 @@ a:hover {
   #top-head .banner {
     height: 100px;
     padding-top: 0;
-    background: url(../images/banner.jpg) -80px center no-repeat/auto 100%;
+    background: url(../images/banner.jpg) -80px center no-repeat;
+    background-size: auto 100%;
   }
   #top-head nav {
     height: 50px;
@@ -571,6 +574,7 @@ a:hover {
   #top-head .banner {
     height: 80px;
     padding-top: 0;
-    background: url(../images/banner.jpg) -80px center no-repeat/auto 100%;
+    background: url(../images/banner.jpg) -80px center no-repeat;
+    background-size: auto 100%;
   }
 }
