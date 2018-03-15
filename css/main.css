@@ -245,7 +245,7 @@ a:hover {
   background-color: #81c681;
   padding: 0 20px;
 }
-#top-head nav .menu-btn {
+#top-head nav #menu-btn {
   display: none;
 }
 #top-head ul {
@@ -269,7 +269,7 @@ a:hover {
   background: rgba(0, 0, 0, 0.11);
 }
 #top-head ul li.active a {
-  background: rgba(0, 0, 0, 0.11);
+  background: rgba(0, 0, 0, 0.21);
 }
 
 #content {
@@ -293,7 +293,7 @@ a:hover {
   height: 100%;
 }
 #content .post {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 #content .post .post-header {
   margin-bottom: 30px;
@@ -301,6 +301,35 @@ a:hover {
 }
 #content .post .post-header h1 {
   font-size: 24px;
+}
+#content .post .post-content #all-page-list li {
+  font-size: 14px;
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 5px;
+}
+#content .post .post-content #all-page-list li a {
+  padding: 5px 0 5px 1em;
+  display: block;
+  position: relative;
+  color: #767676;
+}
+#content .post .post-content #all-page-list li a:before {
+  content: '';
+  width: 4px;
+  height: 4px;
+  background-color: #81c681;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -2px;
+}
+#content .post .post-content #all-page-list li a span {
+  font-size: 12px;
+  margin-left: 10px;
+}
+#content .post .post-content #all-page-list li a:hover {
+  color: #333;
 }
 #content .post .post-content p {
   line-height: 1.8em;
@@ -310,7 +339,24 @@ a:hover {
   display: block;
   margin: 20px auto;
 }
+#content #page-list-nav {
+  width: 200px;
+  margin: 0 auto 50px;
+}
+#content #page-list-nav ul li a {
+  width: 100px;
+  border-radius: 0;
+  border: none;
+  padding: 0;
+  background: none;
+}
+#content #page-list-nav ul li a:hover {
+  background: none;
+}
 
+#article-content {
+  margin-bottom: 50px;
+}
 #article-content article {
   padding: 20px 4%;
   box-shadow: 0 0 15px #ccc;
@@ -350,6 +396,12 @@ a:hover {
   color: #fff;
   text-decoration: none;
   font-size: 16px;
+}
+#article-content .toList {
+  width: 200px;
+  margin: 20px auto;
+  display: block;
+  text-align: center;
 }
 
 #aside-part .social-media {
@@ -442,7 +494,6 @@ a:hover {
 #footer {
   max-width: 1400px;
   border-top: 1px solid #333;
-  margin-top: 50px;
   padding: 20px 0 50px;
 }
 
@@ -509,6 +560,10 @@ a:hover {
     position: relative;
     padding: 0;
   }
+  #top-head nav #top-nav-inner {
+    height: 100%;
+    width: 120px;
+  }
   #top-head nav #menu-btn {
     display: block;
     width: 70px;
@@ -543,16 +598,19 @@ a:hover {
     transform: rotate(-45deg);
     box-shadow: 0 0 0 #0b4d0b;
   }
+  #top-head nav.show #top-nav-inner {
+    background-color: #5dae5d;
+  }
+  #top-head nav.show ul {
+    display: block;
+  }
   #top-head ul {
     position: absolute;
     left: 0;
     top: 50px;
     z-index: 10;
-    width: 100px;
+    width: 120px;
     display: none;
-  }
-  #top-head ul.show {
-    display: block;
   }
   #top-head ul li {
     float: none;
@@ -564,10 +622,12 @@ a:hover {
   #top-head ul li a {
     padding: 0 0;
     font-size: 14px;
+    text-align: left;
+    text-indent: 24px;
   }
 
   #article-content {
-    margin: 0 auto;
+    margin: 0 auto 50px;
   }
 }
 @media screen and (max-width: 400px) {

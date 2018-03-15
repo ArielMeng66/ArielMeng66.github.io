@@ -7,74 +7,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ariel's Secret Garden</title>
     <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-    <!-- Bootstrap -->
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="/css/main.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media
-		queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/
-		html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
 </head>
 
 <body>
     <header id="top-head">
     <div class="banner"></div>
-    <nav>
-        <span id="menu-btn"></span>
-        <ul id="nav-list" class="list-unstyled">
-            <li><a href="/">首页</a></li>
-            <!--<li><a href="">读书</a></li>
-            <li><a href="">干货</a></li>
-            <li><a href="">新闻</a></li>
-            <li><a href="">音乐</a></li>
-            <li><a href="">作品</a></li>-->
-            <li><a href="/about">关于我</a></li>
-        </ul>
+    <nav id="top-nav">
+    	<div id="top-nav-inner">
+    		<span id="menu-btn"></span>
+	        <ul id="nav-list" class="list-unstyled">
+	            <li date-key='index'><a href="/">首页</a></li>
+	            <li date-key='list'><a href="/list">所有文章</a></li>
+	            <li date-key='about'><a href="/about">关于我</a></li>
+	        </ul>
+    	</div>
     </nav>
 </header>
+
+<script>
+    var menuLocation = false;
+</script>
 
 <div id="content" class="container clearfix">
     <div class="row">
         <div class="col-xs-12 col-sm-8">
-            <!--
-<article class="post">
-    <header class="post-header">
-        <h1 class="post-title"><a href="/about/">About</a></h1>
-    </header>
+            <article class="post">
     <div class="post-content">
         <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
 
-
-    </div>
-</article>
--->
-<article class="post">
-    <div class="post-content">
-        <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+<script>
+  menuLocation = 'about';
+</script>
 
 
     </div>
 </article>
         </div>
         <div class="col-xs-12 col-sm-4">
-            <!--<aside class="about">
-    <h3 class="aside-title">关于</h3>
-    <div class="aside-content">
-        <p></p>
-    </div>
-</aside>
-<aside class="subscribe">
-    <h3 class="aside-title">订阅</h3>
-    <div class="aside-content">
-        <p>订阅<a href=" /feed.xml ">RSS</a></p>
-    </div>
-</aside>-->
-
-<aside id="aside-part">
+            <aside id="aside-part">
     <div class="social-media">
         <figure class="jianshu-link">
             <a class="" href=""></a>
@@ -122,7 +94,6 @@
         </div>
     </div>    
 </div>
-
 
 	<footer id="footer">
 		<p class="text-center">&copy; 2018 Ariel's Secret Garden</p>
