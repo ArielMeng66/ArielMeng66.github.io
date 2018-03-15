@@ -328,7 +328,7 @@ a:hover {
 #article-content .post-img img {
   max-width: 100%;
   display: block;
-  margin: 20px 0;
+  margin: 20px auto;
 }
 #article-content .post-description {
   color: #666;
