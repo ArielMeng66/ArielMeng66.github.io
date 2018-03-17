@@ -285,7 +285,7 @@ a:hover {
   padding-top: 56.25%;
   margin-bottom: 40px;
 }
-#content .videobox embed, #content .videobox iframe {
+#content .videobox embed, #content .videobox iframe, #content .videobox video {
   position: absolute;
   left: 0;
   top: 0;

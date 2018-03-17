@@ -5,24 +5,9 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Mar 2018 23:07:03 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Mar 2018 23:07:03 +0800</lastBuildDate>
+    <pubDate>Sat, 17 Mar 2018 15:01:10 +0800</pubDate>
+    <lastBuildDate>Sat, 17 Mar 2018 15:01:10 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>hello world</title>
-        <description>&lt;p&gt;hello world&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Mar 2018 13:52:59 +0800</pubDate>
-        <link>/page/english/2018/03/15/hello-world.html</link>
-        <guid isPermaLink="true">/page/english/2018/03/15/hello-world.html</guid>
-        
-        
-        <category>page</category>
-        
-        <category>english</category>
-        
-      </item>
     
       <item>
         <title>各种好吃的广式点心，用英文怎么说</title>
@@ -130,6 +115,44 @@
         <category>page</category>
         
         <category>english</category>
+        
+      </item>
+    
+      <item>
+        <title>英语趣配音--没有梦想才可悲</title>
+        <description>&lt;div class=&quot;videobox&quot;&gt;
+	&lt;video class=&quot;video-play&quot; id=&quot;video-play&quot; controls=&quot;&quot; poster=&quot;https://img.qupeiyin.cn/2017-07-31/597ef877548a4.jpg&quot; src=&quot;https://cdn.qupeiyin.cn/2017-08-03/id1501752427u837935.mp4&quot;&gt;
+			您的浏览器不支持Video标签。
+			&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;by Ariel Meng&lt;/h4&gt;
+</description>
+        <pubDate>Thu, 03 Aug 2017 13:52:59 +0800</pubDate>
+        <link>/voice/2017/08/03/dream.html</link>
+        <guid isPermaLink="true">/voice/2017/08/03/dream.html</guid>
+        
+        
+        <category>voice</category>
+        
+      </item>
+    
+      <item>
+        <title>英语趣配音--超级少女表露真心</title>
+        <description>&lt;div class=&quot;videobox&quot;&gt;
+	&lt;video class=&quot;video-play&quot; id=&quot;video-play&quot; controls=&quot;&quot; poster=&quot;https://img.qupeiyin.cn/2017-04-10/58eadf7b7f484.jpg&quot; src=&quot;https://cdn.qupeiyin.cn/2017-05-25/id1495684267u837935.mp4&quot;&gt;
+			您的浏览器不支持Video标签。
+			&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;by Ariel Meng&lt;/h4&gt;
+</description>
+        <pubDate>Thu, 25 May 2017 13:52:59 +0800</pubDate>
+        <link>/voice/2017/05/25/super-girl.html</link>
+        <guid isPermaLink="true">/voice/2017/05/25/super-girl.html</guid>
+        
+        
+        <category>voice</category>
         
       </item>
     
@@ -324,11 +347,30 @@ He headed for the bus stop.
 	&lt;iframe class=&quot;player&quot; src=&quot;//v.qq.com/iframe/player.html?vid=e0338qiioqg&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h4&gt;by ArielMeng&lt;/h4&gt;
+&lt;h4&gt;by Ariel Meng&lt;/h4&gt;
 </description>
         <pubDate>Sat, 10 Sep 2016 13:52:59 +0800</pubDate>
         <link>/voice/2016/09/10/Frozen.html</link>
         <guid isPermaLink="true">/voice/2016/09/10/Frozen.html</guid>
+        
+        
+        <category>voice</category>
+        
+      </item>
+    
+      <item>
+        <title>英语趣配音--Rachel哄孩子</title>
+        <description>&lt;div class=&quot;videobox&quot;&gt;
+	&lt;video class=&quot;video-play&quot; id=&quot;video-play&quot; controls=&quot;&quot; poster=&quot;https://img.qupeiyin.cn/2015-09-24/56035e7b46e62.jpg&quot; src=&quot;https://cdn.qupeiyin.cn/2016-06-08/id1465360315u837935.mp4&quot;&gt;
+			您的浏览器不支持Video标签。
+			&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;by Ariel Meng&lt;/h4&gt;
+</description>
+        <pubDate>Wed, 08 Jun 2016 13:52:59 +0800</pubDate>
+        <link>/voice/2016/06/08/Rachel.html</link>
+        <guid isPermaLink="true">/voice/2016/06/08/Rachel.html</guid>
         
         
         <category>voice</category>
